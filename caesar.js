@@ -24,3 +24,5 @@ function encode(string, shift) {
 
     return encoded
 }
+
+module.exports.encode = encode
